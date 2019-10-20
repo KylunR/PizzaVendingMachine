@@ -4,6 +4,11 @@ Records data of the pizza including date made, shape, calories, ingredients, cos
 Pizza data is stored into a linked list.  Pizzas can be sorted or searched using various algorithms.
 
 
+
+
+Full Interface:
+
+
 -----------------------
 Welcome to PizzaManager
 -----------------------
